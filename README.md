@@ -1,6 +1,8 @@
 # wine
 Wine data
 
+[data](https://raw.githubusercontent.com/NicJC/wine/main/wine.csv)
+
 
 The matrix plot below is created with the following R code:
 ---
